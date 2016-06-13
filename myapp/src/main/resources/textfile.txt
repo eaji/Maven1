@@ -1,0 +1,5 @@
+zzz=ddd	fff=fff	
+mno=pqr	stu=vwx	
+123=456	789=000	
+xxx=yyy	aaa=bbb	
+iii=ooo	ppp=qqq	
